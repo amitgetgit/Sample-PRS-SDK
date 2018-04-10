@@ -71,6 +71,6 @@ Once the sample app code is on your computer, follow the steps below to run the 
 •	connect.jsp: Close the Oauth popup and redirect to findallcustomers.jsp  
 •	findallcustomers.jsp: Code needed for calling the QBO Customer endpoint to retrieve all customers
 
-[ss1]: https://help.developer.intuit.com/s/samplefeedback
+[ss1]: https://help.developer.intuit.com/s/SDKFeedback
 
 
