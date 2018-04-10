@@ -1,6 +1,6 @@
 
-[![Sample Banner](views/Sample.png)][ss1]
-## Java Sample for OAuth
+[![Sample Banner](views/SDK.png)][ss1]
+## Java SDK for OAuth
 
 Welcome to the Intuit Developer's Java OAuth Sample App.
 
